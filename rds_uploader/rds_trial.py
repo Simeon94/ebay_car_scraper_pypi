@@ -8,7 +8,7 @@ DATABASE_TYPE = 'postgresql'
 DBAPI = 'psycopg2'
 HOST = 'aicoredb.cjpo05djrpn0.eu-west-2.rds.amazonaws.com'
 USER = 'postgres'
-PASSWORD = 'Oh94*'
+PASSWORD = '***'
 PORT = 5432
 DATABASE = 'postgres'
 
