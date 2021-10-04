@@ -4,9 +4,9 @@ import os.path
 from car_scraper.car_scraping_1 import Carscraper
 #import boto3
 import psycopg2
+from sqlalchemy import create_engine
 import os
 import pandas as pd
-from sqlalchemy import create_engine
 
 
 class DataHandling:
