@@ -8,3 +8,9 @@ car_scraping_1 has 3 methods that allows it to get links to webpages, link for e
 The test folder includes a package with one module; test_car_scraping_1. This module helps to check the link is working as well as checks the number of cars returned per page.
 
 The rds uploader folder includes a package with one module; rds_scraped_ebay_cars. This module helps load the pandas DataFrame, connect to AWS RDS, creates the table and uploads the data into the database.
+
+It is assumed that the user will have installed selenium chromedriver. So they will be expected to the file path of the chromedriver.
+
+Similarly, they will be expected to enter their AWS RDS host details, username & password.
+
+NB: Do not put any of the details in quotes e.g. When promted to enter user type postgres instead of 'postgres'
