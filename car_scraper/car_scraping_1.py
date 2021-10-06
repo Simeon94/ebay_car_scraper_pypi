@@ -6,6 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 import selenium.common.exceptions as exception
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from sqlalchemy import create_engine
 
 import pandas as pd
@@ -52,12 +53,16 @@ class Carscraper:
         self.contact_number = []
         self.new_list = []
         self.car_data = {}
+        self.path = input('Enter your chromedriver path: ') #just paste the path, do not add quotation marks
         #self.page = range(1,31)
-        self.driver = webdriver.Chrome(r"C:\Users\Simeon\Downloads\chromedriver_win32\chromedriver", desired_capabilities=desired_capabilities)
+        #self.driver = webdriver.Chrome(r"C:\Users\Simeon\Downloads\chromedriver_win32\chromedriver", desired_capabilities=desired_capabilities)
+        self.driver = webdriver.Chrome(self.path, desired_capabilities=desired_capabilities)
+        #self.driver = webdriver.Remote("http://127.0.0.1:4444/wd/hub", DesiredCapabilities.CHROME)
+
 
     def get_links(self):
         '''
-        This function is used to get webpages (1-30), number of cars and hrefs for the cars listed
+        This function is used to get webpages (1), number of cars and hrefs for the cars listed
         on each of the ebay webpages.
 
         '''
@@ -75,7 +80,7 @@ class Carscraper:
             for i in cars:
                 time.sleep(1)
                 self.new_list.append(i.get_attribute("href"))
-                time.sleep(3)
+                time.sleep(5)
             print(self.new_list)
 
     def get_car_details(self):
@@ -175,7 +180,7 @@ class Carscraper:
         '''
         with open("car_data.json", "w") as g:
             json.dump(self.car_data, g)
-        with open(r"C:\Users\Simeon\PycharmProjects\ebay_car_scraper_pypi\car_scraper\car_data.json", 'r') as f:
+        with open(r"car_data.json", 'r') as f:
             self.car_data = json.load(f)
             self.car_data_df = pd.DataFrame(self.car_data, columns = ['manufacturer', 'model', 'sale_price', 'year', 'transmission', 'fuel', 'mileage', 'condition', 'location', 'contact_number'])
             #print(self.car_data_df)

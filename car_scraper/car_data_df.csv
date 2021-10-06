@@ -1,49 +1,49 @@
 ,manufacturer,model,sale_price,year,transmission,fuel,mileage,condition,location,contact_number
-0,Ford,Focus,"£6,999.00",,Manual,Diesel,76990,Used,"Kirkby in Ashfield, United Kingdom",0 162 370 8451
-1,Ford,Focus,"£12,900.00",2015,Manual,Diesel,71830,Used,"Newcastle upon Tyne, United Kingdom",0 194 655 2596
-2,Ford,Fiesta,"£6,995.00",2014,Manual,Petrol,92000,Used,"Halstead, United Kingdom",0 178 732 0155
-3,Mini,Cooper S,"£5,799.00",2008,Automatic,Petrol,,Used,,
-4,Nissan,Qashqai,"£7,995.00",2014,Manual,Diesel,103000,Used,"Hull, United Kingdom",0 148 242 5081
-5,Ford,Grand Tourneo Connect,"£19,800.00",2019,Manual,Diesel,15000,Used,"Sittingbourne, United Kingdom",0 160 497 4635
-6,Mercedes-Benz,Other,"£21,500.00",2016,Automatic,Diesel,53009,Used,"Northampton, United Kingdom",0 203 727 7140
-7,Peugeot,Other,"£3,499.00",2010,Automatic,Diesel,83000,Used,"Swansea, United Kingdom",0 179 294 0603
-8,Audi,Other,"£3,895.00",2010,Manual,Diesel,95000,Used,"Birmingham, United Kingdom",0 121 516 0871
-9,Audi,Quattro,"£8,500.00",2013,Automatic,Diesel,157000,Used,"BIRMINGHAM, United Kingdom",0 738 393 8792
-10,BMW,5 Series,"£6,200.00",2010,Automatic,Diesel,124226,Used,"Newcastle upon Tyne, United Kingdom",0 194 676 0920
-11,Mini,Cooper S,"£3,200.00",2004,Manual,Petrol,70000,Used,,
-12,Mini,One,"£2,745.00",2008,Manual,Diesel,111000,Used,"Birmingham, United Kingdom",0 778 001 6794
-13,Ford,Mondeo,"£5,500.00",2012,Manual,Diesel,53977,Used,"Newcastle upon Tyne, United Kingdom",0 194 676 0920
-14,Volkswagen,Polo,"£2,700.00",2009,Manual,Petrol,93000,Used,"wembley, United Kingdom",0 203 892 8023
-15,BMW,Other,"£36,950.00",,Automatic,Petrol,42786,Used,"Wolverhampton, United Kingdom",0 190 229 0376
-16,Volkswagen,Golf,"£19,499.00",2017,Automatic,Petrol/Electricity,42790,Used,"Winsford, United Kingdom",0 160 653 2715
-17,Volkswagen,Tiguan,"£17,795.00",2018,Manual,Diesel,61300,Used,"Warrington, United Kingdom",0 194 293 9576
-18,Volkswagen,Other,"£25,795.00",2020,Automatic,Petrol,1447,Used,"Keighley, United Kingdom",0 333 006 9862
-19,Volkswagen,Other,"£24,995.00",2018,Automatic,Petrol,26500,Used,"Ingleton, United Kingdom",0 152 493 8573
-20,Audi,TT,"£3,995.00",2003,Manual,Petrol,84654,Used,"Grantham, United Kingdom",0 147 685 8531
-21,Ford,Fiesta,"£3,990.00",2011,Manual,Petrol,95000,Used,,
-22,Volkswagen,Golf,"£12,290.00",2016,Manual,Diesel,82305,Used,"Halifax, United Kingdom",0 142 241 8806
-23,BMW,1 Series,"£12,495.00",2014,Manual,Diesel,81524,Used,"Plymouth, United Kingdom",440 175 2656770
-24,Mini,Other,"£14,450.00",2017,Automatic,Diesel,17662,Used,"uckfield, United Kingdom",0 182 570 1531
-25,Volkswagen,Golf,"£12,995.00",2016,Automatic,Diesel,127000,Used,"Ossett, United Kingdom",0 192 490 8928
-26,Land Rover/Range Rover,Discovery,"£5,450.00",2006,Automatic,Diesel,161000,Used,"BIRMINGHAM, United Kingdom",0 738 393 8792
-27,,Mokka X,"£4,000.00",2013,Manual,,117230,Used,,
-28,Volkswagen,CC,"£3,985.00",2013,Automatic,Diesel,161325,Used,"Keighley, United Kingdom",0 153 528 2357
-29,Volkswagen,Golf SV,"£9,295.00",2018,Automatic,Petrol,23310,Used,"Sheffield, United Kingdom",0 124 638 3747
-30,BMW,335,"£24,990.00",2015,,Diesel,49000,Used,"Burnley, United Kingdom",0 128 250 9215
-31,BMW,1 Series,"£25,499.00",2020,Manual,Diesel,24017,Used,"Sheffield, United Kingdom",0 330 128 1883
-32,Volkswagen,Passat,"£8,485.00",2016,Manual,Diesel,92000,Used,"Doncaster, United Kingdom",0 130 243 0491
-33,Saab,Other,"£4,495.00",2010,Manual,Diesel,75000,Used,"Loughton, United Kingdom",0 203 953 7443
-34,Saab,Other,"£6,495.00",2010,Manual,Diesel,79770,Used,"Perth, United Kingdom",0 173 823 0224
-35,Vauxhall/Opel,ADAM,"£4,000.00",2014,Manual,Petrol,41000,Used,"Manchester, United Kingdom",0 161 507 1410
-36,Ford,Fiesta,"£6,395.00",2015,Manual,Petrol,22238,Used,"Doncaster, United Kingdom",0 130 243 0473
-37,Ford,Mondeo,"£2,895.00",2013,Manual,Diesel,170000,Used,"Caldicot, United Kingdom",0 129 144 5863
-38,Volkswagen,Passat,"£3,250.00",2011,Manual,Diesel,125000,Used,"thetford, United Kingdom",
-39,Land Rover/Range Rover,Discovery,"£3,800.00",2002,Manual,Diesel,195560,Used,"Alfreton, United Kingdom",0 777 163 0662
-40,,Corsa,"£1,495.00",,,,,--,"wakefield, United Kingdom",
-41,Vauxhall/Opel,Vectra,"£1,295.00",2008,Manual,Petrol,93000,Used,"Chorley, United Kingdom",0 125 744 4147
-42,BMW,7 Series,"£5,995.00",2007,Automatic,Petrol,108000,Used,"Glasgow, United Kingdom",0 141 404 9471
-43,Ford,EcoSport,"£7,360.00",2016,Automatic,Petrol,32520,Used,"Woodstock, United Kingdom",
-44,BMW,3 Series,"£9,995.00",2012,Manual,Diesel,97000,Used,"wales, United Kingdom",0 149 536 0513
-45,Vauxhall/Opel,ADAM,"£5,750.00",2018,Manual,Petrol,27000,Used,"Birmingham, United Kingdom",440 736 0011966
-46,Volkswagen,Passat,"£8,495.00",2016,Manual,Diesel,115000,Used,"Leicester, United Kingdom",0 116 216 6642
-47,BMW,4 Series,"£10,998.00",2015,Automatic,Petrol,125325,Used,"DERBY, United Kingdom",0 133 297 7549
+0,Mini,Cooper S,"£2,900.00",2003,Manual,Petrol,47100,Used,"Cardiff, United Kingdom",0 797 175 2404
+1,Volkswagen,Touareg,"£7,990.00",2009,Automatic,Diesel,128000,Used,"Plymouth, United Kingdom",0 175 297 3693
+2,Land Rover,Other,"£23,995.00",2004,Manual,Diesel,89000,Used,"Addlestone, United Kingdom",0 193 250 3356
+3,Peugeot,108,"£3,650.00",2016,Manual,Petrol,39000,Used,"Nazeing, United Kingdom",0 771 169 1431
+4,,,,,,,,--,,
+5,Audi,A4,"£3,300.00",2009,Manual,Diesel,134000,Used,,
+6,Toyota,Corolla,"£1,195.00",2006,Manual,Diesel,139758,--,,
+7,Lexus,RX 450h,"£23,999.00",2014,Automatic,Petrol/Electricity,45600,Used,"Preston, United Kingdom",0 757 218 7204
+8,Dacia,Duster,"£14,495.00",2018,Manual,Diesel,23000,Used,"Derby, United Kingdom",0 133 231 8076
+9,,,"£5,750.00",,,,,Used,"Middlewich, United Kingdom",
+10,Suzuki,Swift,"£1,495.00",2007,Manual,Petrol,102000,Used,"Wickford, United Kingdom",0 126 821 4329
+11,Honda,Integra,"£14,950.00",2002,,,,Used,,
+12,Peugeot,308,"£2,895.00",2018,Manual,Petrol,36551,Used,"Todmorden, United Kingdom",0 170 658 0333
+13,BMW,118d,"£4,995.00",2011,Manual,Diesel,78000,Used,"Bristol, United Kingdom",0 781 696 2141
+14,Renault,Zoe,"£11,700.00",2018,Automatic,Electricity,41325,Used,"Eastbourne, United Kingdom",0 132 340 4496
+15,Vauxhall/Opel,Corsa,"£2,195.00",2013,Manual,Petrol,97000,Used,"Bramhall, United Kingdom",440 786 8591217
+16,Ford,Other,"£17,790.00",2018,Manual,Petrol,17757,Used,"Northampton, United Kingdom",0 160 434 3451
+17,Ford,Kuga,"£5,795.00",2011,Manual,Diesel,105000,Used,"Crewkerne, United Kingdom",0 193 531 8010
+18,Mercedes-Benz,Other,"£17,200.00",2014,Automatic,Diesel,86652,Used,"Manchester, United Kingdom",0 203 758 7414
+19,Mini,Mini Countryman,"£7,295.00",2013,Manual,Diesel,54645,Used,"Manchester, United Kingdom",0 161 241 7534
+20,Jeep,Cherokee,"£3,495.00",1999,Automatic,Petrol,109700,Used,"Birmingham, United Kingdom",0 121 728 8647
+21,BMW,5 Series,"£10,750.00",2017,Automatic,Diesel,140000,Used,"Henfield, United Kingdom",0 127 302 7457
+22,Renault,Megane,"£3,490.00",2007,Manual,Petrol,139000,Used,"Great Missenden, United Kingdom",0 149 429 6459
+23,BMW,E91 325d,"£5,000.00",2009,Manual,Diesel,183000,Used,,
+24,,,,,,,,,,
+25,Audi,Q5,"£20,995.00",2014,Semi-Automatic,Diesel,47000,--,"CHIPPENHAM, United Kingdom",0 138 071 1981
+26,Volkswagen,Passat,"£4,650.00",2014,Automatic,Diesel,131473,Used,"Cardiff, United Kingdom",0 292 167 0956
+27,Volkswagen,Golf,"£17,495.00",2017,,,77021,--,"Chesham, United Kingdom",0 748 521 0140
+28,Skoda,Yeti,"£6,295.00",2012,Manual,Diesel,80000,Used,"Aston Clinton, United Kingdom",0 192 391 9023
+29,,,,,,,,,,
+30,,,,,,,,,,
+31,,,,,,,,Used,,
+32,BMW,4 Series,"£12,000.00",2016,Manual,Diesel,,Used,,
+33,Land Rover,Other,"£13,995.00",1993,Manual,Diesel,90000,Used,"West Drayton, United Kingdom",0 189 554 9417
+34,Chevrolet,OTHER,"£9,995.00",2014,,Petrol,1,Used,"Halstead, United Kingdom",0 178 732 0183
+35,Jaguar,XKR,"£15,995.00",,,,,--,"HUCKNALL, United Kingdom",
+36,Vauxhall/Opel,Insignia,"£2,375.00",2009,Manual,Diesel,116340,Used,"Kirkby in Ashfield, United Kingdom",0 162 339 2237
+37,Mitsubishi,Shogun,"£17,995.00",2014,Automatic,Diesel,51800,Used,"Hednesford, United Kingdom",0 779 911 7533
+38,Renault,Modus,"£1,899.00",2011,Automatic,Petrol,108000,Used,,
+39,Volkswagen,Golf,,2006,Manual,Petrol,105000,Used,,
+40,Mini,Other,"£2,885.00",2009,Manual,Petrol,128000,Used,"Thurmaston, United Kingdom",0 116 464 6185
+41,Mercedes-Benz,C-Class,"£4,800.00",2010,Automatic,Diesel,91000,Used,"dewsbury, United Kingdom",0 192 479 3390
+42,Audi,A1,"£6,200.00",2014,Manual,Petrol,54000,Used,"dewsbury, United Kingdom",0 192 479 3390
+43,Alfa Romeo,MiTo,"£3,500.00",,,Diesel,6105,Used,,
+44,Ford,Fiesta,"£2,995.00",2010,Manual,Petrol,74067,Used,"huddersfield, United Kingdom",0 148 450 7906
+45,BMW,3 Series,"£3,388.00",2007,Manual,Petrol,56000,Used,"Peterborough, United Kingdom",0 173 366 6584
+46,Mini,Other,"£4,290.00",2011,Manual,Diesel,115919,Used,"Grimsby, United Kingdom",0 147 280 6831
+47,Volkswagen,Golf,,1988,Manual,Petrol,,Used,,
