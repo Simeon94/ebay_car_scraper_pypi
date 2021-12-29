@@ -1,11 +1,6 @@
 from setuptools import setup
 from setuptools import find_packages
 
-# read_me = None
-#
-# with open(r"C:\Users\Simeon\PycharmProjects\ebay_car_scraper_pypi\README.md", 'r') as a:
-#     read_me = a.read(),
-
 setup(
     name='car_scraper', ## This will be the name your package will be published with
     version='0.0.2',
