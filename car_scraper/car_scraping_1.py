@@ -66,13 +66,12 @@ class Carscraper:
         on each of the ebay webpages.
 
         '''
-        #self.page_urls = []
-        for page in range(1, 2):
+        for page in range(1, 31):
             ROOT = f"https://www.ebay.co.uk/b/Cars/9801/bn_1839037?page=%7Bpage%7D&_pgn=" + str(page)
             self.driver.get(ROOT)
             time.sleep(3)
             print(ROOT)
-            #print(self.page_urls)
+
             listings = self.driver.find_elements_by_xpath("//ul[@class='b-list__items_nofooter srp-results srp-grid']/li")
             # print(listings)
             print(len(listings))
@@ -170,7 +169,7 @@ class Carscraper:
         self.driver.back()
         time.sleep(2)
         print(self.car_data)
-        #cars_data1.append(car_data)
+
 
 
     def print_to_json_and_csv(self):
@@ -183,16 +182,15 @@ class Carscraper:
         with open(r"car_data.json", 'r') as f:
             self.car_data = json.load(f)
             self.car_data_df = pd.DataFrame(self.car_data, columns = ['manufacturer', 'model', 'sale_price', 'year', 'transmission', 'fuel', 'mileage', 'condition', 'location', 'contact_number'])
-            #print(self.car_data_df)
+            print(self.car_data_df)
             self.car_data_df.to_csv("car_data_df.csv")
-        return self.car_data_df
+        return "car_data_df.csv"
 
     def run(self):
         '''
         This function is used to run or execute all the methods.
         '''
         self.get_links()
-        #self.get_cars()
         self.get_car_details()
         self.print_to_json_and_csv()
 
